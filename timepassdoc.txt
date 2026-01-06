@@ -1,0 +1,11 @@
+id,name,email,account_number,account_balance
+101,Neha Sharma,srushtihamand36@gmail.com,ACC1001,786546
+102,Rahul Verma,srushtihamand36@gmail.com,ACC1002,345000
+103,Pooja Patil,srushtihamand36@gmail.com,ACC1003,512300
+104,Amit Kulkarni,srushtihamand36@gmail.com,ACC1004,129850
+105,Sneha Deshmukh,srushtihamand36@gmail.com,ACC1005,980000
+106,Rohit Joshi,srushtihamand36@gmail.com,ACC1006,450780
+107,Kavita More,srushtihamand36@gmail.com,ACC1007,670400
+108,Sachin Pawar,srushtihamand36@gmail.com,ACC1008,885600
+109,Anjali Nair,srushtihamand36@gmail.com,ACC1009,234900
+110,Vikas Singh,srushtihamand36@gmail.com,ACC1010,765430
